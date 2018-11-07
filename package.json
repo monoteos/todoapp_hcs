@@ -1,0 +1,29 @@
+{
+  "name": "todoapp_hcs",
+  "version": "1.0.0",
+  "description": "Todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monoteos/todoapp_hcs.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Konstantin Komarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monoteos/todoapp_hcs/issues"
+  },
+  "homepage": "https://github.com/monoteos/todoapp_hcs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.3.10",
+    "morgan": "^1.9.1"
+  }
+}
